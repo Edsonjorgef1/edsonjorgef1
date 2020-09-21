@@ -8,10 +8,9 @@ I'm Edson Jorge Francisco, also known as "Eddy Famanda", this is a little resume
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/edsonjorgef1/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/famanda_ejf1/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='website' height='20'>](https://www.facebook.com/edsonjorgef1)
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/skull_boy00)  -->
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='website' height='20'>](https://www.facebook.com/edsonjorgef1)
 
 ### My Github stats:
 
@@ -20,7 +19,7 @@ I'm Edson Jorge Francisco, also known as "Eddy Famanda", this is a little resume
    />
 </a>
 <a href="https://github.com/Edsonjorgef1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Edsonjorgef1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mohammad Afaque's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Edsonjorgef1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Edsonjorgef1's GitHub Stats" />
 </a>
 
 <!--
