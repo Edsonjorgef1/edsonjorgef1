@@ -22,13 +22,24 @@ I'm Edson Jorge Francisco, also known as "Eddy Famanda", this is a little resume
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Edsonjorgef1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Edsonjorgef1's GitHub Stats" />
 </a>
 
+### Important Notes:
+
+- 🔭 I’m currently working on [Associação Empoderando Moçambique](http://empoderandomocambique.org) as a Backend Developer & DevOps Infrastructure Assistance.
+- 🌱 I’m currently learning Vue.js, Quasar, Azure DevOps and Docker.
+- 👯 I’m looking to collaborate on open-source projects, etc.
+- 🤔 I’m looking for help with grow my hard skills in this giant community.
+- 💬 Ask me about God, Tech and Music.
+- 📫 How to reach me: edson@equipmoz.org || edsonjorgef1@programmer.net
+- 😄 Pronouns: "Live your life progressively, and conquer bit a bit at time."
+- ⚡ Fun fact: I'm always happy about life (struggling or not), because I've the might King Jesus on the control of everything. How about you?
+
 <!--
 **Edsonjorgef1/edsonjorgef1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Equip Mozambique as a Backend Developer & DevOps Infrastructure Assistance.
-- 🌱 I’m currently learning Vue.js, Quasar, and Docker.
+- 🔭 I’m currently working ...
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
