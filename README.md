@@ -24,7 +24,7 @@ I'm Edson Jorge Francisco, also known as "Eddy Famanda", this is a little resume
 
 ### Important Notes:
 
-- 🔭 I’m currently working on [Associação Empoderando Moçambique](http://equipmoz.org) as a Backend Developer & DevOps Infrastructure Assistant.
+- 🔭 I’m currently working on [Associação Empoderando Moçambique](https://equipmoz.org) as a Backend Developer & DevOps Infrastructure Assistant.
 - 🌱 I’m currently learning Vue.js, Quasar, Azure DevOps and Docker.
 - 👯 I’m looking to collaborate on open-source projects, etc.
 - 🤔 I’m looking for help with grow my hard skills in this giant community.
