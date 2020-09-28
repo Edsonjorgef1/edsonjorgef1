@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Edson Jorge Francisco, also known as "Eddy Famanda", this is a little resume about me and my experience:
+I'm [Edson Jorge Francisco](https://equipmoz.org/people/edson-jorge-francisco), also known as "Eddy Famanda", this is a little resume about me and my experience:
 
 - I mostly work with programming as a backend developer, with knowledge on how to operate with local networks and remote servers infrastructures, also hardware and computer repairing in the mix. I'm so passionated with technology and innovation, also loves listening music and playing guitar/piano on free time.
 
