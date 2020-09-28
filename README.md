@@ -24,7 +24,7 @@ I'm Edson Jorge Francisco, also known as "Eddy Famanda", this is a little resume
 
 ### Important Notes:
 
-- 🔭 I’m currently working on [Associação Empoderando Moçambique](http://empoderandomocambique.org) as a Backend Developer & DevOps Infrastructure Assistance.
+- 🔭 I’m currently working on [Associação Empoderando Moçambique](http://equipmoz.org) as a Backend Developer & DevOps Infrastructure Assistant.
 - 🌱 I’m currently learning Vue.js, Quasar, Azure DevOps and Docker.
 - 👯 I’m looking to collaborate on open-source projects, etc.
 - 🤔 I’m looking for help with grow my hard skills in this giant community.
@@ -32,18 +32,3 @@ I'm Edson Jorge Francisco, also known as "Eddy Famanda", this is a little resume
 - 📫 How to reach me: edson@equipmoz.org || edsonjorgef1@programmer.net
 - 😄 Pronouns: "Live your life progressively, and conquer bit a bit at time."
 - ⚡ Fun fact: I'm always happy about life (struggling or not), because I've the might King Jesus on the control of everything. How about you?
-
-<!--
-**Edsonjorgef1/edsonjorgef1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
