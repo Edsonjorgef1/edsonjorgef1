@@ -4,12 +4,13 @@ I'm [Edson Jorge Francisco](https://equipmoz.org/people/edson-jorge-francisco), 
 
 - I mostly work with programming as a backend developer on [Associação Empoderando Moçambique](http://empoderandomocambique.org), with knowledge on how to operate with local networks and remote servers infrastructures, also hardware and computer repairing in the mix. I'm so passionated with technology and innovation, also loves listening music and playing guitar/piano on free time.
 
-### Social media account:
+### My Accounts:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/edsonjorgef1/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/famanda_ejf1/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='website' height='20'>](https://www.facebook.com/edsonjorgef1)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="docker" height='20'>](https://hub.docker.com/u/edsonjorgef1)
+<!-- [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/paypal.svg alt="paypal" height='20'>](https://paypal.me) -->
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/skull_boy00)  -->
 
