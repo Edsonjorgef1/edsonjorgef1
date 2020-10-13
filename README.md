@@ -9,6 +9,7 @@ I'm [Edson Jorge Francisco](https://equipmoz.org/people/edson-jorge-francisco), 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/edsonjorgef1/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/famanda_ejf1/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='website' height='20'>](https://www.facebook.com/edsonjorgef1)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="docker" height='20'>](https://hub.docker.com/u/edsonjorgef1)
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/skull_boy00)  -->
 
