@@ -32,5 +32,5 @@ I'm [Edson Jorge Francisco](https://equipmoz.org/people/edson-jorge-francisco), 
 - 🤔 I’m looking for help with grow my hard skills in this giant community.
 - 💬 Ask me about God, Tech and Music.
 - 📫 How to reach me: edson@equipmoz.org || edsonjorgef1@programmer.net
-- 😄 Pronouns: "Live your life progressively, and conquer bit a bit at time."
+- 😄 Pronouns: "Live your life progressively, and keep advancing in your journey to overcome bigger challenges and reach your goals."
 - ⚡ Fun fact: I'm always happy about life (struggling or not), because I've the might King Jesus on the control of everything. How about you?
