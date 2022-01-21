@@ -2,7 +2,7 @@
 
 I'm [Edson Jorge Francisco](https://equipmoz.org/people/edson-jorge-francisco), also known as "[Eddy Famanda](https://facebook.com/edsonjorgef1)", this is a little resume about me and my experience:
 
-- I mostly work with programming as a Backend Developer and DevOps Infrastructure Assistant on [Associação Empoderando Moçambique](https://equipmoz.org), with knowledge on how to operate with local networks and remote servers infrastructures, also hardware and computer repairing in the mix. I'm so passionated with technology and innovation, also loves listening music and playing guitar/piano on free time.
+- I mostly work with programming as a Developer and IT Specialist on [Associação Empoderando Moçambique](https://equipmoz.org), with knowledge on how to operate with local networks and remote servers infrastructures, also hardware and computer repairing in the mix. I'm so passionated with technology and innovation, also loves listening music and playing guitar/piano on free time.
 
 ### My Accounts:
 
@@ -26,7 +26,7 @@ I'm [Edson Jorge Francisco](https://equipmoz.org/people/edson-jorge-francisco), 
 
 ### Important Notes:
 
-- 🔭 I’m currently working as a Backend Developer & Systems Administrator.
+- 🔭 I’m currently working as a Lead Backend Developer & Systems Administrator.
 - 🌱 I’m currently learning AWS, Azure, DevOps and Docker.
 - 👯 I’m looking to collaborate on open-source projects, etc.
 - 🤔 I’m looking for help with grow my hard skills in this giant community.
