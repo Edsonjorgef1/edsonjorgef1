@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Edson Jorge Francisco](https://equipmoz.org/people/edson-jorge-francisco), also known as "[Eddy Famanda](https://facebook.com/edsonjorgef1)", this is a little resume about me and my experience:
+I'm [Edson Jorge Francisco](https://equipmoz.org/people/edson-jorge-francisco), also known as "[Edson Famanda](https://facebook.com/edsonjorgef1)", this is a little resume about me and my experience:
 
 - I mostly work with programming as a Developer and IT Specialist on [Associação Empoderando Moçambique](https://equipmoz.org), with knowledge on how to operate with local networks and remote servers infrastructures, also hardware and computer repairing in the mix. I'm so passionated with technology and innovation, really love learning new skills, and also I love working with other developers to escalate my expertise and helping people to solve specific problems.
 
