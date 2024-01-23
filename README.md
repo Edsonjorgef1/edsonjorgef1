@@ -26,7 +26,7 @@ I'm [Edson Jorge Francisco](https://equipmoz.org/team/edson-francisco), also kno
 
 ### Important Notes:
 
-- 🔭 I’m currently working as a Lead Backend Developer & Systems Administrator.
+- 🔭 I’m currently working as a IT Manager & IT Generalist.
 - 🌱 I’m currently learning AWS, Azure, DevOps and Docker.
 - 👯 I’m looking to collaborate on open-source projects, etc.
 - 🤔 I’m looking for help with grow my hard skills in this giant community.
