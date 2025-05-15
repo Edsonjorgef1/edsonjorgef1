@@ -2,7 +2,7 @@
 
 I'm [Edson Jorge Francisco](https://equipmoz.org/team/edson-francisco), also known as "[Edson Famanda](https://facebook.com/edsonjorgef1)", this is a little resume about me and my experience:
 
-- I work mainly with programming as an IT Project Manager at [Associação Empoderando Moçambique] (https://equipmoz.org), with knowledge of how to operate with IT governance in the organisation, local networks and remote server infrastructures, as well as managing a department that has 10-15 talented software developers on different projects, and also adding computer repair into the mix. I'm passionate about technology and innovation, I love learning new skills, and I also love working with other programmers to increase my knowledge and help people solve specific problems.
+- I work mainly with programming as an IT Project Manager at [Associação Empoderando Moçambique] (https://equipmoz.org), with knowledge of how to operate with IT governance in the organisation, local networks and remote server infrastructures, as well as managing a department that has 17 talented software developers working on different projects, and also adding computer repair into the mix. I'm passionate about technology and innovation, I love learning new skills, and I also love working with other programmers to increase my knowledge and help people solve specific problems.
 
 ### My Accounts:
 
