@@ -14,7 +14,7 @@ I'm [Edson Jorge Francisco](https://equipmoz.org/team/edson-francisco), also kno
 
 ### My Coding stats:
   <a href="https://wakatime.com/@Edsonjorgef1">
-    <img src="https://wakatime.com/share/@edsonjorgef1/9a0a8bee-f42d-4cd0-b99b-aa72dedc4e29.png" />
+    <img src="[https://wakatime.com/share/@edsonjorgef1/07bee99f-a052-4a8c-8b6d-4a1d69b45680.png"/>
   </a>
   <a href="https://wakatime.com/@Edsonjorgef1">
     <img align="center" src="https://wakatime.com/share/@edsonjorgef1/8e295508-d96e-42c7-85ca-fbdfb37460df.png"/> 
