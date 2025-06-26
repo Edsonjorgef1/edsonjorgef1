@@ -14,15 +14,17 @@ I'm [Edson Jorge Francisco](https://equipmoz.org/team/edson-francisco), also kno
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/skull_boy00)  -->
 
-### My Github stats:
-
-<a href="https://github.com/Edsonjorgef1">
+### My Coding stats:
+  <a href="https://wakatime.com/Edsonjorgef1">
+    <img align="center" src="https://wakatime.com/share/@edsonjorgef1/8e295508-d96e-42c7-85ca-fbdfb37460df.png"/> 
+  </a>
+<!--<a href="https://github.com/Edsonjorgef1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edsonjorgef1&hide=java,Ruby&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
    />
 </a>
 <a href="https://github.com/Edsonjorgef1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Edsonjorgef1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Edsonjorgef1's GitHub Stats" />
-</a>
+</a> -->
 
 ### Important Notes:
 
