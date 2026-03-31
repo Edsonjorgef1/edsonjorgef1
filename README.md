@@ -56,4 +56,4 @@ Atualmente actuo como IT Manager na [Associação Empoderando Moçambique](https
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/edsonjorgef1)
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/edsonjorgef1)
 
-*"A tecnologia é a ferramenta, o desenvolvimento social é o objetivo."*
+*"A tecnologia é a ferramenta, o desenvolvimento social e económico é o objetivo."*
