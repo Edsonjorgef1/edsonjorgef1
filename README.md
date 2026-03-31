@@ -2,7 +2,7 @@
 
 **IT Manager | Software Engineer | Empreendedor Tecnológico** 📍
 
-Sou um profissional focado em transformar desafios de negócio em soluções digitais de alto impacto. Com experiência em liderança técnica e desenvolvimento de sistemas (Web, Mobile e Desktop), minha missão é promover a transformação digital e o desenvolvimento económico em Moçambique através da tecnologia.
+Sou um profissional focado em transformar desafios de negócio em soluções digitais de alto impacto. Com experiência em liderança técnica e desenvolvimento de sistemas (Web, Mobile e Desktop), minha missão é promover a transformação digital e o desenvolvimento sócioeconómico em Moçambique através da tecnologia.
 
 Atualmente actuo como IT Manager na [Associação Empoderando Moçambique](https://equipmoz.org), liderando uma equipa que já chegou a 17 profissionais em diferentes áreas, com foco em desenvolvimento de software em diferentes projetos, com conhecimento em governança de TI, redes locais e infraestruturas de servidores remotos.
 
